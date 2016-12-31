@@ -1,0 +1,1 @@
+puts 'There are '+ (365*24)._s + 'in a year'
